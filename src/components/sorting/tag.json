@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sorting_tags",
+  "info": {
+    "displayName": "tag",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "color": {
+      "type": "string"
+    }
+  }
+}
